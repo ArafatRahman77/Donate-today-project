@@ -1,0 +1,231 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+    height: 100%;
+}
+
+.first_section{
+  
+  background-image: linear-gradient(to right,rgba(0,0,0,0.9),rgba(180,180,180,0.3)),url(images/donation13.jpg);
+  width: 100%;
+  height: 600px;
+  background-repeat: no-repeat;
+  background-size: cover;
+  color: white;
+  
+}
+
+.first_section h1{
+  text-align: center;
+  margin-top: 0;
+  font-weight: 700;
+  font-size: 50px;
+  padding-top: 10%;
+}
+.first_section p{
+ margin-top: 2%;
+ margin-left: auto;
+ margin-right: auto;
+ text-align: center;
+ width: 50%;
+  
+}
+.first_section a{
+  background-color: tomato;
+  text-decoration: none;
+  padding: 10px 20px;
+  border-radius: 5px;
+  color: white;
+ 
+}
+.Donate_today{
+  width: 100%;
+  height: 600px;
+  text-align: center;
+  margin-top: 10px;
+  font-size: 30px;
+  font-weight: 700;
+}
+.Taka-amount{
+  text-align: center;
+}
+.Taka-amount a{
+  display: inline-block;
+  text-align: center;
+  width: 200px;
+  height:  100px;
+  background-color: rgba(235, 189, 189, 0.487);
+  text-decoration: none;
+  padding: 70px;
+  font-size: 50px;
+  color: grey;
+  margin-left: 10px;
+}
+.Taka-amount-a-2{
+  border: 3px solid red;
+}
+
+.taka-amount-input {
+  border-left: 0;
+  border-right: 0;
+  border-top: 0;
+  outline: 0;
+  width: 400px;
+  font-weight: 600;
+  font-size: 20px;
+  text-align: center;
+}
+.taka-amount-button{
+  display: block;
+  background-color: tomato;
+  text-decoration: none;
+  width: 200px;
+  margin-top: 5px;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 5px;
+  color: white;
+}
+.Our-donate-plan h1{
+  text-align: center;
+  font-size: 50px;
+  font-weight: 900;
+}
+.Our-donate-plan_main{
+  display: block;
+  margin-top: 10px;
+  margin-bottom: 200px;
+  padding-top: 10px;
+}
+.Our-donate-plan p{
+  text-align: center;
+  width: 25%;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 2px;
+}
+.plan_a{
+  display: inline-block;
+  width: 20%;
+  height: 500px;
+  background-color: aqua;
+  margin-left: 13%;
+  margin-right: 4%;
+  background-color: rgba(216, 86, 86, 0.200);
+  vertical-align: top;
+  padding-top: 100px;
+  
+}
+.plan_a img{
+  padding-left: 20px;
+}
+.plan_a h1{
+  font-size: 30px;
+  text-align: left;
+  padding-left: 15px;
+}
+.plan_a p{
+ width: 95%;
+ text-align: left;
+ padding-left: 5px;
+
+}
+
+.plan_b{
+  display: inline-block;
+  width: 20%;
+  height: 500px;
+  background-color: aqua;
+  margin-left: 3%;
+  margin-right: 3%;
+  background-color: rgba(169, 209, 232, 0.200);
+  padding-top: 100px;
+  padding-left: 20px;
+  vertical-align: top;
+  padding-top: 100px;
+}
+.plan_b img{
+  padding-left: 20px;
+}
+.plan_b h1{
+  font-size: 30px;
+  text-align: left;
+}
+.plan_b p{
+  width: 95%;
+  text-align: left;
+ 
+ }
+
+.plan_c{
+  display: inline-block;
+  width: 20%;
+  height: 500px;
+  margin-left: 4%;
+  background-color: rgba(235, 189, 189, 0.200);
+  vertical-align: top;
+  padding-top: 100px;
+  word-wrap: break-word;
+  
+}
+.plan_c img{
+  padding-left: 20px;
+}
+.plan_c h1{
+  font-size: 30px;
+  text-align: left;
+  padding-left: 15px;
+}
+.plan_c p{
+  width: 95%;
+  text-align: left;
+  padding-left: 5px;
+ }
+
+ .Get-update{
+  width: 100%;
+  margin-bottom: 10px;
+ }
+ .Get-update form{
+  margin: auto;
+  width: 50%;
+  height: 200px;
+  background-color: rgba(183, 164, 164, 0.284);
+  border-radius: 10px;
+ }
+ .Get-update_input{
+   display:inline-block;
+   width: 400px;
+   height: 40px;
+   margin-top: 5%;
+   margin-left: 20%;
+   margin-right: 0%;
+   border: 0;
+ }
+ .Get-button{
+  display:inline-block;
+  width:100px;
+  height: 40px;
+  margin-left: -4px;
+  border: 0;
+  font-weight: 700;
+  background-color: tomato;
+  color: white;
+  
+ }
+ .last-h1{
+  padding-top: 15px;
+  width: 25%;
+  margin-left: auto;
+  margin-right: auto;
+  font-size: 30px;
+ }
+ footer{
+  background-color: rgba(52, 43, 44, 0.76);
+  color:white;
+  font-weight: 900;
+  width: 100%;
+  height: 100px;
+  text-align: center;
+  padding-top: 5px;
+ }
